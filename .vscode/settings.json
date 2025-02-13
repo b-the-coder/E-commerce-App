@@ -1,0 +1,8 @@
+{
+    "editor.formatOnSave": true, // 保存时自动格式化
+    "editor.defaultFormatter": "esbenp.prettier-vscode", // 指定用 Prettier
+    "[typescript]": {
+        // 针对特定文件类型
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

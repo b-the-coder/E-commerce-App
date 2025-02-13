@@ -1,0 +1,16 @@
+.catalog {
+    display: 'flex';
+
+    padding: 0;
+    gap: '1.5rem';
+}
+
+.catalog li a {
+    color: #9b9a9a;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.catalog li a:hover {
+    color: #000;
+}
